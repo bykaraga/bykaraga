@@ -1,4 +1,3 @@
-[![MasterHead](https://swarajya.gumlet.io/swarajya/2017-12/5ba2cbb1-2233-4726-9258-45d8ea9009bb/Prog-languages.jpg?w=610&q=50&compress=true&format=auto)
 <h1 align="center">Hi 👋, I'm batuhan demirboğa</h1>
 <h3 align="center">a passionate student studying computer science in Poland</h3>
 
