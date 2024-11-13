@@ -1,3 +1,4 @@
+[![MasterHead](https://swarajya.gumlet.io/swarajya/2017-12/5ba2cbb1-2233-4726-9258-45d8ea9009bb/Prog-languages.jpg?w=610&q=50&compress=true&format=auto)
 <h1 align="center">Hi 👋, I'm batuhan demirboğa</h1>
 <h3 align="center">a passionate student studying computer science in Poland</h3>
 
@@ -21,4 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bykaraga&show_icons=true&locale=en" alt="bykaraga" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bykaraga&" alt="bykaraga" /></p>
-![snake gif](https://github.com/bykaraga/bykaraga/blob/output/github-contribution-grid-snake.gif)
+
+
+![snake gif](https://github.com/bykaraga/bykaraga/blob/output/github-contribution-grid-snake.svg)
