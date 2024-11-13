@@ -3,7 +3,6 @@
 <h3 align="center">a passionate student studying computer science in Poland</h3>
 
 - 🌱 I’m currently learning **c++,react**
-
 - 📫 How to reach me **batuhan10demirboga@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,4 +23,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bykaraga&" alt="bykaraga" /></p>
 
 
-![snake gif](https://github.com/bykaraga/bykaraga/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/bykaraga/bykaraga/output/github-contribution-grid-snake.svg)
+
