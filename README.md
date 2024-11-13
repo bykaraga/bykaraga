@@ -23,5 +23,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bykaraga&" alt="bykaraga" /></p>
 
 
-![snake gif](https://raw.githubusercontent.com/bykaraga/bykaraga/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/bykaraga/bykaraga/output/github-contribution-grid-snake.gif)
+
 
