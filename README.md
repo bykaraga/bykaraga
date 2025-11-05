@@ -51,5 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bykaraga&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bykaraga" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=bykaraga&theme=default" alt="GitHub Streak" />
+
 </p>
